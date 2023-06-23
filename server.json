@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "price": 12000,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2023-06-14T21:29:21.966Z"
+    },
+    {
+      "id": 2,
+      "description": "Pczão",
+      "price": 7000,
+      "type": "outcome",
+      "category": "Compra",
+      "createdAt": "2023-06-12T21:29:21.966Z"
+    },
+    {
+      "id": 3,
+      "description": "Churros do Kiko",
+      "price": 35,
+      "type": "outcome",
+      "category": "Alimentação",
+      "createdAt": "2023-06-11T21:29:21.966Z"
+    },
+    {
+      "description": "Bananada",
+      "category": "Alimentação",
+      "price": 11,
+      "type": "outcome",
+      "createdAt": "2023-06-17T23:45:08.136Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de Homepage",
+      "category": "Venda",
+      "price": 500,
+      "type": "income",
+      "createdAt": "2023-06-18T00:13:09.326Z",
+      "id": 5
+    }
+  ]
+}
